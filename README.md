@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Jahaziel, and I'm an IT Specialist in the U.S. Army,  and currently enrolled in Oregon Insitute of Technology majoring in Software Engineering!
+ 
+- 🌱 I’m currently learning Python
 
 <!--
 **JaRule22/jarule22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
