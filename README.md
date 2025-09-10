@@ -4,7 +4,7 @@ My name is Jahaziel, and I'm an IT Specialist in the U.S. Army,  and currently e
  
 - 🌱 I’m currently learning Python
 - 🔭 I’m currently working on getting my Security+ certification
-- - 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python
 
 <!--
 **JaRule22/jarule22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
